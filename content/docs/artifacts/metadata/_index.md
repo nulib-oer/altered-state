@@ -2,7 +2,7 @@
 weight: 1
 ---
 
-# Section 2
+# Metadata Schemes
 
 ## Adiit proximus nostraque corpore
 

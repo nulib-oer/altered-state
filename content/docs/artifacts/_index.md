@@ -4,7 +4,7 @@ params:
   bookFlatSection: true
 ---
 
-# Section 1
+# Workshop Artifacts
 
 ## Ferre hinnitibus erat accipitrem dixi Troiae tollens
 

@@ -2,9 +2,9 @@
 weight: 1
 ---
 
-# Leaf Page 1
+# Dialog   
 
-## Corda suam cornua delet
+## Recorded conversations   
 
 Lorem markdownum custodia, praemia madefacta exarsit, tenebas famae virtute
 prole contingere obstipuere iuvencos ex magis ad manare dare. Infans fidem

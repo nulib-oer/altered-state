@@ -1,8 +1,8 @@
 baseURL: http://0.0.0.0:1313/
-title: Documentation
+title: Toolbox
 theme: hugo-book
 
-copyright: "This is a copyright placeholder"
+copyright: "CC BY-NC-SA 4.0"
 
 # Book configuration
 disablePathToLower: true
