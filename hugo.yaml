@@ -1,4 +1,4 @@
-baseURL: http://0.0.0.0:1313/
+baseURL: https://nulib-oer.github.io/altered-state/
 title: Toolbox
 theme: hugo-book
 
