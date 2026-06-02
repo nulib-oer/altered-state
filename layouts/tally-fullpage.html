@@ -1,0 +1,35 @@
+{{ define "main" }}
+<style>
+  html, body { height: 100%; }
+  main.container {
+    min-height: 100vh;
+    align-items: stretch;
+  }
+  .book-page {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 0 !important;
+    overflow: hidden;
+  }
+  .book-page > header,
+  .book-page > footer { flex-shrink: 0; }
+  .tally-fullpage-frame {
+    flex: 1;
+    width: 100%;
+    border: 0;
+    display: block;
+    min-height: 0;
+  }
+</style>
+<iframe
+  class="tally-fullpage-frame"
+  data-tally-src="https://tally.so/r/{{ .Params.tally_id }}?transparentBackground=1"
+  width="100%"
+  frameborder="0"
+  marginheight="0"
+  marginwidth="0"
+  title="{{ .Title }}"
+></iframe>
+<script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+{{ end }}
