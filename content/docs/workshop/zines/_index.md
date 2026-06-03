@@ -1,8 +1,8 @@
 ---
-weight: 1
+weight: 2
 ---
 
-# Mini-Zines    
+# Mini Zines    
 
 ## Prompt   
 

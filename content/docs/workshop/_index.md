@@ -1,7 +1,6 @@
 ---
-weight: 1
-params:
-  bookCollapseSection: true
+weight: 5   
+title: "Workshop"
 ---
 
 # Library Publishing Forum 2026
