@@ -49,7 +49,7 @@ menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book"
+      url: "https://github.com/nulib-oer/altered-state"
       weight: 10
 
 taxonomies:

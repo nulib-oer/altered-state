@@ -2,7 +2,7 @@
 weight: 1
 ---
 
-# Cataloging Workflows  
+# Artifacts
 
 ## Fratres sagax arbor vacuas
 

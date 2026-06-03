@@ -2,7 +2,8 @@
 weight: 1
 ---
 
-# Discovery Solutions
+# Artifacts
+
 
 ## Verbaque rapite temptabat vacantem
 
