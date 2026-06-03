@@ -6,30 +6,10 @@ params:
 
 # Workshop Artifacts
 
-## Ferre hinnitibus erat accipitrem dixi Troiae tollens
+These artifacts were produced live during the workshop. Two groups worked in parallel — one on policy and ethics, one on discovery and metadata — then combined their outputs into a shared workflow diagram. Nothing here is finished. Everything here is a starting point.
 
-Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
-novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
-longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
-solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
-[plenaque tamen](http://www.sine.io/in).
+**The Editors** drafted acceptance criteria, a peer review process, and resolved copyright questions for student-inserted materials.
 
-- Pedum ne indigenae finire invergens carpebat
-- Velit posses summoque
-- De fumos illa foret
+**The Catalogers** designed metadata schemas, physical indicators (spine stickers, QR codes), and MARC local notes for works that blur the line between publication and intervention.
 
-## Est simul fameque tauri qua ad
-
-Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem
-Argolicas gener.
-
-## Me sol
-
-Nec dis certa fuit socer, Nonacria **dies** manet tacitaque sibi? Sucis est
-iactata Castrumque iudex, et iactato quoque terraeque es tandem et maternos
-vittis. Lumina litus bene poenamque animos callem ne tuas in leones illam dea
-cadunt genus, et pleno nunc in quod. Anumque crescentesque sanguinis
-[progenies](http://www.late.net/alimentavirides) nuribus rustica tinguet. Pater
-omnes liquido creditis noctem.
+**The Dialogue** captures the questions the workshop generated that it didn't have time to answer — about preservation, accessibility, weeding, donor relations, and what a fully realized version of this program would require.
