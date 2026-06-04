@@ -1,0 +1,22 @@
+{{ if .Page.Params.carousel }}
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.splide').forEach(function (el) {
+      new Splide(el, {
+        type: 'loop',
+        perPage: 3,
+        perMove: 1,
+        gap: '1rem',
+        breakpoints: {
+          768: { perPage: 1 },
+          1024: { perPage: 2 },
+        }
+      }).mount();
+    });
+
+    GLightbox({ selector: '.carousel-lightbox' });
+  });
+</script>
+{{ end }}

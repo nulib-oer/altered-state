@@ -1,5 +1,6 @@
 ---
 weight: 2
+carousel: true
 ---
 
 # Mini Zines    
@@ -21,3 +22,21 @@ Choose a text that is:
 What you just made is a physical intervention into a field of meaning.
 
 By folding paper, selecting language, adding images, and shaping a small publication, you did more than express an opinion. You entered into relation with other texts in a visible, material way. Your zine does not sit outside scholarship. It interrupts it, extends it, and reframes it. It makes argument tangible.
+
+
+
+## Aloysius Anderson
+
+<a href="zine-flip.pdf" download>Download pdf</a>
+
+{{< carousel label="Mini Zines" >}}
+  {{< carousel-image src="Kapolka1.png" alt="" gallery="zines" >}}
+  {{< carousel-image src="Kapolka2.png" alt="" gallery="zines" >}}
+  {{< carousel-image src="Kapolka3.png" alt="" gallery="zines" >}}
+  {{< carousel-image src="Kapolka4.png" alt="" gallery="zines" >}}
+  {{< carousel-image src="Kapolka5.png" alt="" gallery="zines" >}}
+  {{< carousel-image src="Kapolka6.png" alt="" gallery="zines" >}}
+  {{< carousel-image src="Kapolka7.png" alt="" gallery="zines" >}}
+  {{< carousel-image src="Kapolka8.png" alt="" gallery="zines" >}}
+  {{< carousel-image src="Kapolka9.png" gallery="zines" >}}
+{{< /carousel >}}

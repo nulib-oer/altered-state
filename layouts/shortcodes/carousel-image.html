@@ -1,0 +1,8 @@
+<li class="splide__slide">
+  <figure>
+    <a href="{{ .Get "src" }}" class="carousel-lightbox" data-gallery="{{ .Get "gallery" | default "carousel" }}" data-glightbox="{{ with .Get "alt" }}title: {{ . }}{{ end }}">
+      <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" loading="lazy">
+    </a>
+    {{ with .Get "alt" }}<figcaption>{{ . }}</figcaption>{{ end }}
+  </figure>
+</li>
