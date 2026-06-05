@@ -1,5 +1,6 @@
 ---
 weight: 1
+carousel: true
 ---
 
 # Slides
@@ -13,3 +14,6 @@ weight: 1
 {{< image src="5.png" alt="Slide 5 - see PDF for full text" title="Altered State Publishing" loading="lazy" >}}
 {{< image src="6.png" alt="Slide 6 - see PDF for full text" title="Altered State Publishing" loading="lazy" >}}
 {{< image src="7.png" alt="Slide 7 - see PDF for full text" title="Altered State Publishing" loading="lazy" >}}
+{{< image src="8.png" alt="Slide 8 - see PDF for full text" title="Altered State Publishing" loading="lazy" >}}
+{{< image src="9.png" alt="Slide 9 - see PDF for full text" title="Altered State Publishing" loading="lazy" >}}
+{{< image src="10.png" alt="Slide 10 - see PDF for full text" title="Altered State Publishing" loading="lazy" >}}
