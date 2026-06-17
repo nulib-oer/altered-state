@@ -21,3 +21,8 @@ Designing workflows for alternative publishing
 - ## What's Inside
   Policy drafts, metadata schemas, and workflow diagrams — outputs from two working groups (The Editors and The Catalogers) — plus a recorded dialogue capturing questions the workshop opened up.
 {{% /columns %}}
+
+## Email us with questions, complaints, suggestions, birds of the week
+
+Mackenzie Salisbury, Curriculum Innovation Librarian, msalisbury@northwestern.edu
+Basia Kapolka, Digital Humanities Librarian, basia.kapolka@northwestern.edu 
