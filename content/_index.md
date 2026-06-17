@@ -24,5 +24,5 @@ Designing workflows for alternative publishing
 
 ## Email us with questions, complaints, suggestions, birds of the week
 
-Mackenzie Salisbury, Curriculum Innovation Librarian, msalisbury@northwestern.edu
+Mackenzie Salisbury, Curriculum Innovation Librarian, msalisbury@northwestern.edu  
 Basia Kapolka, Digital Humanities Librarian, basia.kapolka@northwestern.edu 
