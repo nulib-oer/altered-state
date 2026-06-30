@@ -25,3 +25,7 @@ We will allow attendees to self select into one of two core operational hurdles 
 2. The Metadata Layer: How can cataloging workflows be adapted (e.g., local notes, 590 fields, linked digital surrogates) to make ephemeral student contributions discoverable?
 
 Participants will leave with a collaborative “Guerilla Publishing Toolkit”—a draft framework for managing student-authored physical interventions in their own libraries. This session bridges the gap between critical library instruction and the operational realities of library publishing.
+
+## Title card
+
+{{< image src="workshop-title.png" alt="Altered State Publishing Workshop" title="Altered State Publishing Workshop" loading="lazy" >}}

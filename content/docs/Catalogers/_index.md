@@ -31,11 +31,11 @@ Date ________________________
 - 590 (Local Note): How will you describe this specific copy's intervention? (Compose draft text)
 - 6XX (Subject Headings): Are there new keywords needed (e.g., "Student interventions," "Guerilla Publishing")?
 - 856 (Electronic Location/Access): If a digital surrogate exists, what is the URL?
-- Physical Indicators:
-  - Spine label/sticker?
-  - QR code on flyleaf?
-  - New barcode for accompanying material?
 
-## Other Indicators
+## Physical Indicators
+- Spine label/sticker?
+- QR code on flyleaf?
+- New barcode for accompanying material?
 
-## Notes to the Next Cataloger
+## Other Indicators/Notes to the Next Cataloger
+

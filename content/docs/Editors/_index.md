@@ -17,6 +17,7 @@ Define the boundary between "defacement" and "enrichment" to draft a Statement o
 
 Case Study Artifact #  _______________________________
 Reviewer Team ________________________________
+Date ________________________________
 
 ## Physical Assessment
 
