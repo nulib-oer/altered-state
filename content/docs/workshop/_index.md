@@ -26,6 +26,6 @@ We will allow attendees to self select into one of two core operational hurdles 
 
 Participants will leave with a collaborative “Guerilla Publishing Toolkit”—a draft framework for managing student-authored physical interventions in their own libraries. This session bridges the gap between critical library instruction and the operational realities of library publishing.
 
-## Title card
+## Title Card
 
 {{< image src="workshop-title.png" alt="Altered State Publishing Workshop" title="Altered State Publishing Workshop" loading="lazy" >}}
